@@ -1,5 +1,6 @@
 # 💫 About Me:
-Experienced data scientist specializing in data analysis, machine learning, and API integrations.<br>Proficient in Python & SQL, and tools like Pandas, NumPy & Scikit-learn.<br>I focus on delivering tailored solutions that drive impactful results while maintaining<br>high quality at competitive prices.
+
+Data Scientist and Machine Learning Specialist who helps businesses unlock the full potential of their data through intelligent AI solutions. With over 4 years of experience in machine learning, computer vision, and natural language processing, I've worked with clients across multiple industries to build systems that deliver real impact from AI models that detect and classify objects in real-time to conversational chatbots that understand context. My approach is simple: understand the challenge, design the right solution, and deliver results that exceed expectations. I'm certified in IBM Data Science, AWS, Microsoft Azure, and Agentic AI, and I'm constantly exploring new technologies to stay ahead in this rapidly evolving field. Beyond client work, I mentor aspiring data scientists, helping them transition into successful freelancing careers. If you're looking for someone who combines deep technical knowledge with clear communication and a commitment to quality. I'm always excited to tackle new challenges and build solutions that make a difference.
 
 
 ## 🌐 Socials:
